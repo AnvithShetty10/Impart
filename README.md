@@ -16,13 +16,17 @@ $ cd Impart
 Create a virtualenv, and activate this:
 
 $ virtualenv venv 
-$ source venv/bin/activate
+
+$ source venv/bin/activate  
+
 After, install all necessary to run:
 
 $ pip install -r requirements.txt
+
 Than, run the application:
 
 $ python app.py
+
 To see your application, access this url in your browser:
 
 http://localhost:5000
