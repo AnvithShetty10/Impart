@@ -5,12 +5,14 @@ Requirements
 
 Python 2.5+, python-pip, virtualenv
 
-Instalation
+Installation
 
 First, clone this repository.
 
 $ git clone http://github.com/AnvithShetty10/Impart.git
+
 $ cd Impart
+
 Create a virtualenv, and activate this:
 
 $ virtualenv venv 
